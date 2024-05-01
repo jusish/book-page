@@ -13,7 +13,7 @@ function MultipleItems2() {
    
   };
   return (
-      <div className=" justify-center">
+      <div className="justify-center ">
         <Slider {...settings} className=" w-[90%] mx-[2%]">
         <div>
           <Card image={'/src/assets/Book Store/Product photo-3.png'}/>
