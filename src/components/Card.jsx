@@ -21,7 +21,6 @@ const Card = ({image}) => {
             className=""
             alt=""
           />
-          Add to cart
         </button>
       </div>
     </div>
